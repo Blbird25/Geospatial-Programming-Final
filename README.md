@@ -12,9 +12,6 @@ The model integrates:
 - Impervious surface cover
 - Soil runoff risk
 
-## Test
-this is a test
-
 Each layer is reclassified and combined using a weighted overlay to produce
 a relative runoff risk index (1 = low, 5 = high).
 
