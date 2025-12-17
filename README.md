@@ -3,6 +3,9 @@
 This project models relative runoff risk using a weighted overlay approach
 implemented in ArcGIS Pro, ModelBuilder, and Python (ArcPy).
 
+## ModelBuilder Workflow
+![ModelBuilder workflow](Model_Builder.png)
+
 ## Overview
 The model integrates:
 - Slope derived from a DEM
