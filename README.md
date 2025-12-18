@@ -6,6 +6,9 @@ implemented in ArcGIS Pro, ModelBuilder, and Python (ArcPy).
 ## ModelBuilder Workflow
 ![ModelBuilder workflow](Model_Builder.png)
 
+## Metadata / Data Availability
+The data used for this final project originated from a variety of sources. The digital elevation model
+
 ## Overview
 The model integrates:
 - Slope derived from a DEM
